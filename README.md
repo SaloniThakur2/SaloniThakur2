@@ -36,4 +36,32 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salonithakur2&show_icons=true&locale=en" alt="salonithakur2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salonithakur2&" alt="salonithakur2" /></p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calm Face Greeting</title>
+    <style>
+        .container {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .emoji {
+            font-size: 48px; /* Adjust size as needed */
+        }
+        .message {
+            font-size: 24px;
+            color: #333;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="emoji">😌</div>
+        <div class="message">Have a good day!</div>
+    </div>
+</body>
+</html>
 
