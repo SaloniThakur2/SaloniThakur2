@@ -37,30 +37,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salonithakur2&" alt="salonithakur2" /></p>
 
-<!DOCTYPE html>
-<html lang="en">
-    <style>
-        html, body {
-            height: 100%;
-            margin: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4; /* Optional: Adds a light background color */
-        }
-        .container {
-            text-align: center;
-        }
-        .emoji {
-            font-size: 48px; /* Adjust size as needed */
-        }
-        .message {
-            font-size: 24px;
-            color: #333;
-            margin-top: 10px;
-        }
-    </style>
+
 </head>
 <body>
     <div class="container">
