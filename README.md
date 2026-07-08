@@ -7,9 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salonithakur2&label=Profile%20views&color=0e75b6&style=flat" alt="salonithakur2" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/saloni-thakur-557a15253](https://www.linkedin.com/in/saloni-thakur-557a15253)
+- Portfolio: **https://saloniworkhub.lovable.app** 
+- 👨‍💻 Linkedin: [https://www.linkedin.com/in/saloni-thakur-557a15253](https://www.linkedin.com/in/saloni-thakur-557a15253)
 
-- 📫 How to reach me **thakursaloni000@gmail.com**
+- 📫 How to reach me
+- Gmail: **salonithakur28@gmail.com**
+- Optional: **thakursaloni000@gmail.com**
+
 
 - ⚡ Fun fact **Can even make u think in a an optimistic way.**
 
